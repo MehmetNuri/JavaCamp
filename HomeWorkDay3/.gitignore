@@ -1,4 +1,6 @@
-.idea
+#Gitignore files and directories
+.idea/
+*.iws
 *.iml
-out
-
+out/
+.sdkman
