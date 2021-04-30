@@ -1,12 +1,4 @@
-.idea/
-*.iws
+.idea
 *.iml
-out/
-*.class
-*~
-.fuse_hidden*
-.directory
-.Trash-*
-.nfs*
-
+out
 
